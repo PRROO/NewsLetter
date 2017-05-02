@@ -1,0 +1,240 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>February_email</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <style type="text/css">
+    @import url(//fonts.googleapis.com/css?family=Montserrat:400,700);
+    *{
+      -ms-text-size-adjust:100%;
+      -webkit-text-size-adjust:none;
+      -webkit-text-resize:100%;
+      text-resize:100%;
+    }
+    a{outline:none;}
+    a:hover{text-decoration:none !important;}
+    .active:hover{opacity:0.8;}
+    .active{
+      -webkit-transition:all 0.3s ease;
+        -moz-transition:all 0.3s ease;
+        -ms-transition:all 0.3s ease;
+          transition:all 0.3s ease;
+    }
+    .ExternalClass, .ExternalClass a, .ExternalClass span, .ExternalClass b, .ExternalClass br, .ExternalClass p, .ExternalClass div{line-height:inherit;}
+    table td{border-collapse:collapse !important;}
+    @media only screen and (max-width:500px) {
+      table[class="wrapper"]{min-width:320px !important;}
+      table[class="flexible"]{width:100% !important;}
+      td[class="hide"],
+      td[class="hide"] img,
+      span[class="hide"],
+      br[class="hide"],
+      td[class="fix-gmail"]{
+        display:none !important;
+        width:0 !important;
+        height:0 !important;
+        padding:0 !important;
+        font-size:0 !important;
+        line-height:0 !important;
+      }
+      td[class="img-flex"] img{
+        width:100% !important;
+        height:auto !important;
+      }
+      td[class="aligncenter"]{text-align:center !important;}
+      td[class="indent-0"]{padding:0 !important;}
+      td[class="indent-01"]{padding:25px 15px !important;}
+    }
+  </style>
+</head>
+<body style="margin:0; padding:0;" bgcolor="#f2f1f1" link="#666666">
+<table class="wrapper" width="100%" cellspacing="0" cellpadding="0" bgcolor="#f2f1f1">
+  <tr>
+    <td class="indent-0" style="padding:60px 0;">
+      <table class="flexible" align="center" width="600" cellpadding="0" cellspacing="0" style="margin:0 auto;">
+        <tr>
+          <td class="fix-gmail">
+            <table width="600" cellpadding="0" cellspacing="0" style="width:600px !important;">
+              <tr>
+                <td style="min-width:600px; font-size:0; line-height:0;">&nbsp;</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#ffffff">
+            <table width="100%" cellpadding="0" cellspacing="0">
+              <!-- header -->
+              <tr>
+                <td class="img-flex" style="padding:0 0 25px;"><a href="#"><img src="http://www.emailing.com/blog/wp-content/uploads/2015/06/conference-emailing.jpg" border="0" style="vertical-align:top;" width="600" height="300" alt="PURVEYORS OF FEBRUARY est 2007 BRAND DESIGN DIGITAL" /></a></td>
+              </tr>
+              <!-- content -->
+              <tr>
+                <td style="padding:25px;">
+                  <table width="100%" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td align="center" style="padding:0 15px 18px; font:bold 20px/22px Montserrat, Arial, Helvetica, sans-serif; text-transform:uppercase; letter-spacing:7px; color:#000;">INTRODUCTION</td>
+                    </tr>
+                    <tr>
+                      <td align="center" style="font:15px/20px Georgia, Times New Roman, Times, serif; color:#999;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis faucibus risus, sit amet dignissim ante. Ut eu accumsan dolor. Vestibulum viverra aliquet quam, non iaculis velit efficitur non. Aenean eu nisl at turpis efficitur sagittis. Aenean consequat enim ante, vel porta tortor maximus at.</td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td class="indent-0" style="padding:0 25px;">
+                  <table width="100%" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td style="padding:25px 0;">
+                        <table width="100%" cellpadding="0" cellspacing="0">
+                          <tr>
+                            <td align="center" style="padding:0 15px 21px; font:bold 20px/22px Montserrat, Arial, Helvetica, sans-serif; text-transform:uppercase; letter-spacing:7px; color:#000;">LATEST WORK</td>
+                          </tr>
+                          <tr>
+                            <td class="img-flex" style="padding:0 0 22px;"><a href="#"><img src="img-01.png" border="0" style="vertical-align:top;" width="550" height="225" alt="" /></a></td>
+                          </tr>
+                          <tr>
+                            <td align="center" style="padding:0 0 15px; font:bold 14px/16px Montserrat, Arial, Helvetica, sans-serif; text-transform:uppercase; letter-spacing:3px; color:#000;">TITLE OF SOMETHING</td>
+                          </tr>
+                          <tr>
+                            <td align="center" style="padding:0 25px 7px; font:15px/20px Georgia, Times New Roman, Times, serif; color:#999;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis faucibus risus, sit amet dignissim ante dolor sit amet elit.</td>
+                          </tr>
+                          <tr>
+                            <td align="center" style="font:11px/13px Montserrat, Arial, Helvetica, sans-serif; text-transform:uppercase; letter-spacing:3px;"><a href="#" style="text-decoration:none; color:#000;">LINK</a></td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="img-flex" style="padding:25px 0;"><a href="#"><img src="img-02.png" border="0" style="vertical-align:top;" width="550" height="225" alt="SNEAK PEAK text" /></a></td>
+                    </tr>
+                    <tr>
+                      <td style="padding:25px 0 0;">
+                        <table class="flexible" width="250" align="left" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                          <tr>
+                            <td class="img-flex" style="padding:0 0 25px;"><a href="#"><img src="img-03.png" border="0" style="vertical-align:top;" width="250" height="224" alt="" /></a></td>
+                          </tr>
+                        </table>
+                        <table class="flexible" width="250" align="right" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                          <tr>
+                            <td class="indent-01" style="padding:0 0 25px;">
+                              <table width="100%" cellpadding="0" cellspacing="0">
+                                <tr>
+                                  <td class="aligncenter" style="padding:0 0 15px; font:bold 14px/16px Montserrat, Arial, Helvetica, sans-serif; text-transform:uppercase; letter-spacing:3px; color:#000;">TITLE OF SOMETHING</td>
+                                </tr>
+                                <tr>
+                                  <td class="aligncenter" style="padding:0 0 7px; font:15px/20px Georgia, Times New Roman, Times, serif; color:#999;">Lorem ipsum dolor sit amet, sit avec consectetur adipiscing elit. Avec ante raesent quis faucibus risus, sit amet dignissim ante dolor sit amet elit. Avec praesent quis faucibus risus, sit amet dignissim ante dolor sit amet al elit.Praesent quis faucibus risus, sit a amet dignissim avec dolor.</td>
+                                </tr>
+                                <tr>
+                                  <td class="aligncenter" style="font:11px/13px Montserrat, Arial, Helvetica, sans-serif; text-transform:uppercase; letter-spacing:3px;"><a href="#" style="text-decoration:none; color:#000;">LINK</a></td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td style="padding:25px 0 0;">
+                        <table class="flexible" width="250" align="right" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                          <tr>
+                            <td class="img-flex" style="padding:0 0 25px;"><a href="#"><img src="img-03.png" border="0" style="vertical-align:top;" width="250" height="224" alt="" /></a></td>
+                          </tr>
+                        </table>
+                        <table class="flexible" width="250" align="left" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                          <tr>
+                            <td class="indent-01" style="padding:0 0 25px;">
+                              <table width="100%" cellpadding="0" cellspacing="0">
+                                <tr>
+                                  <td class="aligncenter" style="padding:0 0 15px; font:bold 14px/16px Montserrat, Arial, Helvetica, sans-serif; text-transform:uppercase; letter-spacing:3px; color:#000;">TITLE OF SOMETHING</td>
+                                </tr>
+                                <tr>
+                                  <td class="aligncenter" style="padding:0 0 7px; font:15px/20px Georgia, Times New Roman, Times, serif; color:#999;">Lorem ipsum dolor sit amet, sit avec consectetur adipiscing elit. Avec ante raesent quis faucibus risus, sit amet dignissim ante dolor sit amet elit. Avec praesent quis faucibus risus, sit amet dignissim ante dolor sit amet al elit.Praesent quis faucibus risus, sit a amet dignissim avec dolor.</td>
+                                </tr>
+                                <tr>
+                                  <td class="aligncenter" style="font:11px/13px Montserrat, Arial, Helvetica, sans-serif; text-transform:uppercase; letter-spacing:3px;"><a href="#" style="text-decoration:none; color:#000;">LINK</a></td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td style="padding:25px 0;">
+                        <table width="100%" cellpadding="0" cellspacing="0">
+                          <tr>
+                            <td align="center" style="padding:0 15px 21px; font:bold 20px/22px Montserrat, Arial, Helvetica, sans-serif; text-transform:uppercase; letter-spacing:7px; color:#000;">FROM THE ARCHIVE</td>
+                          </tr>
+                          <tr>
+                            <td class="img-flex" style="padding:0 0 23px;"><a href="#"><img src="img-01.png" border="0" style="vertical-align:top;" width="550" height="225" alt="" /></a></td>
+                          </tr>
+                          <tr>
+                            <td align="center" style="padding:0 0 15px; font:bold 14px/16px Montserrat, Arial, Helvetica, sans-serif; text-transform:uppercase; letter-spacing:3px; color:#000;">TITLE OF SOMETHING</td>
+                          </tr>
+                          <tr>
+                            <td align="center" style="padding:0 25px 7px; font:15px/20px Georgia, Times New Roman, Times, serif; color:#999;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis faucibus risus, sit amet dignissim ante dolor sit amet elit.</td>
+                          </tr>
+                          <tr>
+                            <td align="center" style="font:11px/13px Montserrat, Arial, Helvetica, sans-serif; text-transform:uppercase; letter-spacing:3px;"><a href="#" style="text-decoration:none; color:#000;">LINK</a></td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <!-- footer -->
+              <tr>
+                <td style="padding:0 15px 50px;">
+                  <table width="100%" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td align="center" style="padding:25px 0 22px;"><img src="img-04.png" style="vertical-align:top;" width="176" height="173" alt="WHAT'S NEXT" /></td>
+                    </tr>
+                    <tr>
+                      <td align="center" style="padding:0 0 48px; font:bold 11px/13px Montserrat, Arial, Helvetica, sans-serif; text-transform:uppercase; letter-spacing:3px; color:#000;">
+                        To discuss a brief please contact<br class="hide" />
+                        Alex Atkinson on <a href="#" style="text-decoration:none; color:#000;">0203 176 2500</a> or<br class="hide" />
+                        email <a href="#" style="text-decoration:none; color:#000;">alex@february.agency</a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="center" style="padding:0 0 6px; line-height:10px;"><a href="#"><img src="logo-footer.png" border="0" style="font:bold 12px/14px Arial, Helvetica, sans-serif;vertical-align:top;" width="104" height="10" alt="FEBRUARY" /></a></td>
+                    </tr>
+                    <tr>
+                      <td align="center" style="padding:0 0 21px; font:bold 11px/13px Montserrat, Arial, Helvetica, sans-serif; text-transform:uppercase; letter-spacing:3px; color:#000;">
+                        The Old Brewhouse<br />
+                        yattendon rG18 0UE
+                      </td>
+                    </tr>
+                    <tr>
+                      <td style="padding:0 0 23px;">
+                        <table align="center" cellpadding="0" cellspacing="0" style="margin:0 auto;">
+                          <tr>
+                            <td width="31" valign="top"><a class="active" href="#"><img src="ico-twitter.png" border="0" style="vertical-align:top;" width="31" height="25" alt="twitter" /></a></td>
+                            <td width="48"></td>
+                            <td width="31" valign="top"><a class="active" href="#"><img src="ico-pinterest.png" border="0" style="vertical-align:top;" width="28" height="28" alt="pinterest" /></a></td>
+                            <td width="48"></td>
+                            <td width="31" valign="top"><a class="active" href="#"><img src="ico-google.png" border="0" style="vertical-align:top;" width="30" height="25" alt="google" /></a></td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="center" style="font:10px/11px Montserrat, Arial, Helvetica, sans-serif; color:#000; text-transform:uppercase; letter-spacing:1px;">&copy; February London Ltd 2014. All rights reserved</td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
+
